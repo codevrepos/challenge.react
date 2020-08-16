@@ -33,8 +33,9 @@ It is your chance to show off your coding skills!  Please make an app that uses 
 3. API helper function
 4. React Hooks
 5. Scalability
-6. Testing
-7. Responsive styling
+6. Folder Structure
+7. Testing
+8. Responsive styling
 
 ## Upon Completion
 Please send a link to the github repo to andrew@co.dev and peter@co.dev and notify the recruiter once complete. Good luck!
