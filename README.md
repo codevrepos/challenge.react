@@ -1,4 +1,4 @@
-# Code Challenge - Co.dev
+# ReactJS Code Challenge - Co.dev
 
 Welcome to co.dev’s code challenge.
 
