@@ -13,7 +13,7 @@ In the home page, the user can enter a random name and based on the response of 
 
 When the user clicks the History tab, there should be a history of what the user has searched along with data points of those results.  Assuming there is a high number of results, the result should be scrollable.
 
-Please make sure that the application is responsive and looks good on a mobile screen.
+Please make sure that the application is responsive and also looks good on a mobile screen.
 
 It is your chance to show off your coding skills!  Please make an app that uses an efficient use of folder structure with styling, redux, API helpers, etc that is scalable.
 
