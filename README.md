@@ -38,4 +38,4 @@ It is your chance to show off your coding skills!  Please make an app that uses 
 8. Responsive styling
 
 ## Upon Completion
-Please send a link to the github repo to andrew@co.dev and peter@co.dev and notify the recruiter once complete. Good luck!
+Please send a link to the github repo to andrew@co.dev and notify the recruiter once complete. Good luck!
